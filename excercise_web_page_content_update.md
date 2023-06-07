@@ -6,7 +6,9 @@ let answer = prompt('What is your name?');
 ```
 Once you have the user-provided input inside the **answer** variable, you can manipulate it any way you need to.
 
-For example, you can output the typed-in information on the screen, as an **<h1>** HTML element.
+For example, you can output the typed-in information on the screen, as an **<h1>** 
+
+## HTML element.
 
 Here's how you'd do that:
 ```javascript
