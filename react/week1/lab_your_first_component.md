@@ -25,5 +25,6 @@ Save your changes and view the app in the browser.
 
 
 Is this valid component code?
-
+```
 function Example() { return (<h1>Example</h1>) }
+```
