@@ -17,7 +17,7 @@ Now you're ready to add a new function to the App component, and name that funct
 In the body of the **Heading** component, add a return statement.
 
 #### Step 3
-To the right of the **return** keyword, add the following JSX code: **<h1>This is an h1 heading</h1>**
+To the right of the **return** keyword, add the following JSX code: ```<h1>This is an h1 heading</h1>```
 
 #### Step 4
 
