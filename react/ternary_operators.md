@@ -55,7 +55,7 @@ function Example() {
     );
 };
 ```
-Inside the <h1> element, the curly braces signal to React that you want it to parse the code inside as regular JavaScript.
+Inside the ```<h1>``` element, the curly braces signal to React that you want it to parse the code inside as regular JavaScript.
 
 Then, inside the curly braces, you can add a ternary statement. Every ternary statement conceptually, expressed in pseudo-code, works like this:
 ```javascript
